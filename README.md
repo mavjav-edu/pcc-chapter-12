@@ -121,4 +121,4 @@ TRY IT YOURSELF \#3
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-11)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-13)
+[&#10094; Prev](../../../pcc-chapter-11)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-13)
